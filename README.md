@@ -22,7 +22,7 @@ Here's more information🤗
 ---
 
 **™️ PATENTS**
-- 형태소 분석 기반의 자연어 매칭 장치, 방법 및 그를 이용한 전자문서 제어 시스템 (APPARATUS AND METHOD FOR MATCHING NATURAL LANGUAGE BASED ON MORPHOLOGICAL ANALYSIS AND SYSTEM FOR CONTROLLING ELECTRONIC DOCUMENT USING THE SAME) [10-2019-0036517]
+- 형태소 분석 기반의 자연어 매칭 장치, 방법 및 그를 이용한 전자문서 제어 시스템 (APPARATUS AND METHOD FOR MATCHING NATURAL LANGUAGE BASED ON MORPHOLOGICAL ANALYSIS AND SYSTEM FOR CONTROLLING ELECTRONIC DOCUMENT USING THE SAME) [[KR102215091B1](https://patents.google.com/patent/KR102215091B1)]
 
 <!--
 **tienipia/tienipia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
