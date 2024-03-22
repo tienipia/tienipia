@@ -7,6 +7,12 @@ Here's more information🤗
 
 ---
 
+**👔 CAREER**
+- [TIENIPIA](https://github.com/tienipia-official) Chief Executive officer (📆2024 ~ Present)
+- [FORCS](https://www.forcs.com) Senior Researcher of AI division (📆2016 ~ Present)
+
+---
+
 **🪪 LICENSES**
 - 🚗 [SMPA](https://www.smpa.go.kr/) Class 1 - Ordinary
 - 🧑‍💻️ [HRDK](https://www.hrdkorea.or.kr/) Engineer Information Processing
