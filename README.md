@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Tienipia (Combination of "Tiny" + "Utopia", pronounced `/taɪ.ni.pʰi.a/`) is alter ago of **James Choi (aka 최재호)**
+Tienipia (Combination of "Tiny" + "Utopia", pronounced `/taɪ.ni.pʰi.a/`) is the alter ego of **James Choi (aka 최재호)**
 
-Interest on James Choi🤔  
-Here's more information🤗
+Are you interested in James Choi? 🤔  
+Here's more information 🤗
 
 ---
 
