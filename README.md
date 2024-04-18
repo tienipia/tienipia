@@ -22,6 +22,11 @@ Here's more information 🤗
 
 ---
 
+**🙏 Sponsor for**
+- [Vue.js](https://github.com/vuejs/core) - [☕️ Backer](https://github.com/vuejs/core/blob/main/BACKERS.md)
+
+---
+
 **📰 ARTICLES**
 - Doping modulated ion hopping in tantalum oxide based resistive switching memory for linear and stable switching dynamics [[sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0169433223010346)]
 
