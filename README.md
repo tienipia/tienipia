@@ -22,8 +22,8 @@ Here's more information 🤗
 
 ---
 
-**🙏 Sponsor for**
-- [Vue.js](https://github.com/vuejs/core) - [☕️ Backer](https://github.com/vuejs/core/blob/main/BACKERS.md)
+**🙏 SPONSOR FOR**
+- [Vue.js](https://github.com/vuejs/core) - [Backer](https://github.com/vuejs/core/blob/main/BACKERS.md)
 
 ---
 
