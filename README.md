@@ -22,7 +22,8 @@ Here's more information 🤗
 
 ---
 
-**🙏 SPONSOR FOR**
+**🙏 SPONSORSHIP**
+- [Vite⚡](https://github.com/vitejs/vite) - [Backer](https://github.com/vuejs/core/blob/main/BACKERS.md) 
 - [Vue.js](https://github.com/vuejs/core) - [Backer](https://github.com/vuejs/core/blob/main/BACKERS.md)
 
 ---
