@@ -35,7 +35,7 @@ Here's more information 🤗
 
 **™️ PATENTS**
 - 형태소 분석 기반의 자연어 매칭 장치, 방법 및 그를 이용한 전자문서 제어 시스템 (APPARATUS AND METHOD FOR MATCHING NATURAL LANGUAGE BASED ON MORPHOLOGICAL ANALYSIS AND SYSTEM FOR CONTROLLING ELECTRONIC DOCUMENT USING THE SAME) [[KR102215091B1](https://patents.google.com/patent/KR102215091B1)]
-- 자연어 대화를 통한 대규모언어모델(LLM) 기반 전자문서 작성 장치 및 이를 이용한 전자문서 작성 방법 (Under review)
+- 자연어 대화를 통한 대규모 언어모델 기반의 전자문서 작성 장치 및 이를 이용한 전자문서 작성 방법 (APPARATUS FOR WRITING ELECTRONIC DOCUMENT BASED ON LARGE LANGUAGE MODEL THROUGH NATURAL LANGUAGE CONVERSATION AND METHOD FOR WRITING ELECTRONIC DOCUMENT USING THE SAME) [(공개) 10-2024-0171257]
 
 <!--
 **tienipia/tienipia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
